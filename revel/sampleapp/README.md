@@ -17,4 +17,5 @@ Rails like Golang setup with Revel and GORM
 
 ## Blog
 
+    [Rails like Golang setup with Revel and GORM](https://singhamrit.medium.com/rails-like-golang-setup-with-revel-and-gorm-33dab0aae11a)
 
