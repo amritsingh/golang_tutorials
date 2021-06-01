@@ -16,6 +16,5 @@ Rails like Golang setup with Revel and GORM
     "This projects demonstrates how to create POST, GET and DELETE APIs with Revel and GORM"
 
 ## Blog
-
-    [Rails like Golang setup with Revel and GORM](https://singhamrit.medium.com/rails-like-golang-setup-with-revel-and-gorm-33dab0aae11a)
+[Rails like Golang setup with Revel and GORM](https://singhamrit.medium.com/rails-like-golang-setup-with-revel-and-gorm-33dab0aae11a)
 
