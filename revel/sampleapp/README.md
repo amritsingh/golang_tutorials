@@ -13,7 +13,7 @@ Rails like Golang setup with Revel and GORM
 
 ## Project
 
-    "This projects demonstrates now to create POST, GET and DELETE APIs with Revel and GORM"
+    "This projects demonstrates how to create POST, GET and DELETE APIs with Revel and GORM"
 
 ## Blog
 
